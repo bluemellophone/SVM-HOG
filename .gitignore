@@ -34,3 +34,8 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Positive / Negative Training Dataset, Test Dataset [Uncompressed]
+positives/
+negatives/
+tests/
